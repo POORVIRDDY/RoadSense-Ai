@@ -1,6 +1,6 @@
-# Software to detect traffic violations , get their number plates , and issue them challans,
+# Software to detect traffic violations, get their number plates, and issue them challans.
 
-traffic violations include:
+Traffic violations include:
 
 1. No helmet
 2. Wrong side driving
